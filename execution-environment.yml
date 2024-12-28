@@ -19,6 +19,7 @@ dependencies:
     - jmespath
     - receptorctl
     - ansible
+    - python-jenkins
   galaxy:
     collections:
       - name: kubernetes.core
